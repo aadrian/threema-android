@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="recording">Înregistrare mesaj vocal</string>
+	<string name="recording_stopped_title">Înregistrare oprită</string>
+	<string name="recording_stopped_message">Doriți să trimiteți mesajul înregistrat acum?</string>
+	<string name="recording_canceled">Înregistrarea a fost întreruptă din cauză necunoscută.</string>
+	<string name="cancel_recording">Șterge înregistrarea</string>
+	<string name="cancel_recording_message">Doriți să întrerupeți și să ștergeți înregistrarea?</string>
+	<string name="stop">Stop</string>
+</resources>
